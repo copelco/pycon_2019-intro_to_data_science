@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+numpy
+wikipedia
+sklearn
+seaborn
+pydotplus
+nltk
+gensim
+wordcloud
